@@ -69,6 +69,7 @@ Points main technology is an algorithm(s), that allows them to estimate the appr
 ## Landscape:
 
 * What domain of the financial industry is the company in? 
+
 Points financial industry domain is mortgage lending;
 
 * What have been the major trends and innovations of this domain over the last 5-10 years? 
@@ -76,6 +77,7 @@ Points financial industry domain is mortgage lending;
 Major trends in mortgage lending have been information based technology when it comes to property information, automated valuations, paperless environment platforms, platforms for TPV (3rd party verifications of income, assets, tax documentation);
 
 * What are the other major companies in this domain?
+
 Points competitors are Hometap, Unlock, and Unison.
 
 
@@ -93,6 +95,8 @@ Per Points LinkedIn post from last month, they have officially funded $1 billion
 
 
 * How is your company performing relative to competitors in the same domain?
+
+Point Appears to be younger than its competitors, especially Unison, and appears to be performing as expected for a start up, indicated by its ability to continue to secure financing; 
 
 
 ## Recommendations
