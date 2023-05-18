@@ -1,26 +1,33 @@
- # TITLE
+# TITLE
 Home Equity Fintech Takeover
 
 ## Overview and Origin
 
 * Name of company
+
 The name of this organization is Point. 
 
 * When was the company incorporated?
-Although I was not able to independently verify the date of incorporation, per the Point “about us” page the organization was officially founded in 2015 by Eddie Lim, Eoin Matthews, and Alex Rampell. 
+
+Although I was not able to independently verify the date of incorporation, per the Point “about us” page the organization was officially founded in 2015.  
 
 * Who are the founders of the company?
 
+Eddie Lim, Eoin Matthews, and Alex Rampell.
+
 * How did the idea for the company (or project) come about?
+
 The founders are experienced in the Tech space and have all founded other start up companies; The inspiration for this business came out through each founders personal experience within the mortgage lending industry as either consumers attempting to obtain financing or as friends of consumers looking to them as a resource for securing a home with limited personal funds.
 
 * How is the company funded? How much funding have they received?
+
 The company is funded by VC’s (Series A: 2015- $9.1M, Series B: 2019- $42M, and Series C: 2022- $120M)
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
 Lets detail the table shaking innovation of Point- But first a short history lesson. We need to set some foundational knowledge about the mortgage space.
 
 Traditional mortgages (purchase money, rate and term refinance, and home equity loans/lines of credit) are based on the “4 C’s”. 
@@ -95,6 +102,7 @@ Per Points LinkedIn post from last month, they have officially funded $1 billion
 I would not suggest any additional services or products for this company, I would suggest they provide more transparency toward the property types and values they can secure HEI’s on. I also recommend reviewing their internal controls and algorithms to ensure they are actually more inclusive and the algo’s don’t also have built in biases. My final recommendation would be to evaluate the downgrade in value at the start of the contract, when there is not such risk adjustment at the final valuation. 
 
 * Why do you think that offering this product or service would benefit the company?
+
 I believe doing these checks will act as a guide to inclusivity and establish them as a reputable company and not a predatory lender; 
 
 
