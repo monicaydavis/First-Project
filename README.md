@@ -9,7 +9,7 @@ The name of this organization is Point.
 
 * When was the company incorporated?
 
-Although I was not able to independently verify the date of incorporation, per the Point “about us” page the organization was officially founded in 2015.  
+Although I was not able to independently verify the date of incorporation, per the Point “about us” page  on Point.com, the organization was officially founded in 2015.  
 
 * Who are the founders of the company?
 
@@ -58,12 +58,12 @@ Points intended customer is anyone who is in the market for a down payment assis
 
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Point has similar loan parameters and fees, with Points fees being on the higher side, and customer rating being on the lower side. Point does not have a discernible edge on its direct competitors but has an edge on traditional lenders.
+According to LenderEdu.com Home Equity Sharing lender comparison page, Point has similar loan parameters and fees, with Points fees being on the higher side, and customer rating being on the lower side. Point does not have a discernible edge on its direct competitors but has an edge on traditional lenders.
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-Points main technology is an algorithm(s), that allows them to estimate the appreciation of homes over the course of 30 years.
+Points main "technology is an algorithm(s)" according to LenderEdu.com, that allows them to estimate the appreciation of homes over the course of 30 years.
 
 
 ## Landscape:
@@ -90,7 +90,7 @@ As described earlier, the major impact to the industry is another lending option
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Per Points LinkedIn post from last month, they have officially funded $1 billion in home equity investments (loans). This is major for the organization because according to reviews some contracts were approved but not funded due Points lack of capital at that time; 
+Per Points LinkedIn.com post from last month, they have officially "funded $1 billion in home equity investments" (loans). This is major for the organization because according to reviews some contracts were approved but not funded due Points lack of capital at that time; 
 
 
 
@@ -114,7 +114,7 @@ I believe doing these checks will act as a guide to inclusivity and establish th
 Sources:
 LendEdu.com
 Point.com
-Supermoney.com
+Supermoney.com (reveiws)
 TheCollegeInvetor.com
 Linkedin.com
 
